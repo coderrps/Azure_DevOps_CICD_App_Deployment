@@ -98,7 +98,7 @@ def index():
             <p>This application is built using Flask and demonstrates a simple SPA integrated with Azure DevOps. 💻</p>
         </section>
         <section id="contact">
-            <h2>Contact 📧</h2>
+            <h2>Contact 📧 </h2>
             <p>Contact us at: <a href="mailto:ritupriyasingh08@gmail.com">ritupriyasingh08@gmail.com</a> 📬</p>
         </section>
         <footer>
