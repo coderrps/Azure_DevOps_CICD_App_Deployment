@@ -79,7 +79,7 @@ def index():
             </nav>
         </header>
         <section id="home" class="active">
-            <h2>Project Overview 📝</h2>
+            <h2>Project Overview For Devops📝</h2>
             <p>Welcome to our Single Page Application showcasing Azure DevOps Pipeline deployment! 🎯</p>
             <ul>
                 <li>🔧 <strong>Implemented CI/CD Pipeline:</strong> Developed and deployed a Continuous Integration/Continuous Deployment (CI/CD) pipeline using Azure DevOps for automating the build and release process of a Flask application to Azure App Service.</li>
