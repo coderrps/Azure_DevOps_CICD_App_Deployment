@@ -7,6 +7,7 @@ trigger:
 - master
 
 pool:
+  name: Ritu
   vmImage: ubuntu-latest
 
 steps:
